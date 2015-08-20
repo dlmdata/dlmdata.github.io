@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               'Daniel Lewis Mitchell'
 tagline:             'Statistician and Data Scientist'
-description:         'This is the personal website of Daniel Lewis Mitchell. I'm a statistician and data scientist in Austin, Texas who is interested in computational methods, Bayesian inference, and spatial statistics.'
+description:         "This is the personal website of Daniel Lewis Mitchell. I'm a statistician and data scientist in Austin, Texas who is interested in computational methods, Bayesian inference, and spatial statistics."
 url:                 http://dlmdata.github.io
 baseurl:             ''
 paginate:            1
